@@ -213,7 +213,7 @@ replace (
 	github.com/docker/machine => github.com/machine-drivers/machine v0.7.1-0.20210719174735-6eca26732baa
 	github.com/samalba/dockerclient => github.com/sayboras/dockerclient v1.0.0
 	k8s.io/api => k8s.io/api v0.21.2
-	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.21.2
+	k8s.io/apiextensions-apiserver => github.com/dreaming12580/apiextensions-apiserver v0.19.3-0.20220428090019-c707688b8821
 	k8s.io/apimachinery => k8s.io/apimachinery v0.21.2
 	k8s.io/apiserver => k8s.io/apiserver v0.21.2
 	k8s.io/cli-runtime => k8s.io/cli-runtime v0.21.2
